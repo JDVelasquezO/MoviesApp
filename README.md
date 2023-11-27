@@ -28,5 +28,3 @@ Demo about a movies app in .NET Core 8.0
 
 ## SQLite DB
 ![image](https://github.com/JDVelasquezO/MoviesApp/assets/27173723/05cde98a-424e-46fd-8e8c-8d3a339fd94d)
-
-Como si Como si 
