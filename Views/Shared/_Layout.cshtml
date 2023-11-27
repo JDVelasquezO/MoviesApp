@@ -8,12 +8,6 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" 
     rel="stylesheet">
-    <style>
-        .btn {
-            margin-top: 1%;
-            box-shadow: none;
-        }
-    </style>
     @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MvcMovie.styles.css" asp-append-version="true" /> *@
@@ -22,10 +16,6 @@
     <header class="light-blue darken-1 white-text">
         <div class="row">
             <h5 class="title col s6">MoviesApp</h5>
-
-            <div class="right-align auth_button col s6">
-                <a class="light-blue btn">Iniciar Sesion</a>
-            </div>
         </div>
     </header>
     <div class="container">
@@ -49,6 +39,12 @@
         </div>
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var elems = document.querySelectorAll('select');
+            var instances = M.FormSelect.init(elems);
+        });
+    </script>
     @* <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script> *@
