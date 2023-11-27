@@ -1,7 +1,8 @@
 # MoviesApp Views
 Demo about a movies app in .NET Core 8.0
 
-![image](https://github.com/JDVelasquezO/MoviesApp/assets/27173723/8fa01f9e-b615-4d76-9d0a-41d5ecf98c44)
+<img src="[/img/contact.png](https://github.com/JDVelasquezO/MoviesApp/assets/27173723/8fa01f9e-b615-4d76-9d0a-41d5ecf98c44)" 
+  alt="logo .net" width="20%" height="auto">
 
 ## Technologies
 - Framework Microsoft .Net Core 8.0.100
