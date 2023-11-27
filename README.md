@@ -1,7 +1,7 @@
 # MoviesApp Views
 Demo about a movies app in .NET Core 8.0
 
-<img src="[/img/contact.png](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png)" 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" 
   alt="logo .net" width="20%" height="auto">
 
 ## Technologies
