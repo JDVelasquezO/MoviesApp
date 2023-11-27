@@ -1,7 +1,7 @@
 # MoviesApp Views
 Demo about a movies app in .NET Core 8.0
 
-<img src="[/img/contact.png](https://github.com/JDVelasquezO/MoviesApp/assets/27173723/8fa01f9e-b615-4d76-9d0a-41d5ecf98c44)" 
+<img src="[/img/contact.png](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png)" 
   alt="logo .net" width="20%" height="auto">
 
 ## Technologies
@@ -12,6 +12,7 @@ Demo about a movies app in .NET Core 8.0
 - MVC Application
 - Entity Framework
 - Blazor Engine
+- SO Kubuntu 22.04.3 LTS
 
 ## Index
 ![image](https://github.com/JDVelasquezO/MoviesApp/assets/27173723/6184bc05-8147-41e7-b9c7-fe548484183d)
